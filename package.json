@@ -2,6 +2,9 @@
   "name": "nest-camp-api",
   "version": "0.0.1",
   "description": "",
+  "engines": {
+    "node": "16.x"
+  },
   "author": "",
   "private": true,
   "license": "UNLICENSED",
@@ -71,7 +74,6 @@
       "**/*.(t|j)s"
     ],
     "coverageDirectory": "../coverage",
-    "testEnvironment": "node",
-    "engines" : { "node" : ">=0.12" }
+    "testEnvironment": "node"
   }
 }
