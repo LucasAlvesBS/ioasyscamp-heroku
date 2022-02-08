@@ -24,7 +24,7 @@
 
 ## Description
 
-- CRUD simples para realizar o desagio de colocar uma aplicação no Heroku. 
+- CRUD simples para realizar o desafio de colocar uma aplicação no Heroku. 
 
 ## Installation
 
