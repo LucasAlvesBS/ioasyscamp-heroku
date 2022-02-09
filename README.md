@@ -34,7 +34,7 @@ $ npm install
 
 ## Projeto
 
-- Link: https://nestapi-ioasyscamp.herokuapp.com/
+- Link: https://nestapi-ioasyscamp.herokuapp.com/orders/
 
 ## License
 
