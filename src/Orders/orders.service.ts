@@ -19,7 +19,23 @@ export class OrdersService {
   }
 
   findAll() {
-    return this.database;
+    return `
+    PARABÉEEEEEEEEEEEEEEEENSSSSSS, MAISINHA!!!!!!!!!!!! 
+                          
+    PIUUUUUUUUUUUUUUUUUUUUUUUUUU TRATRATRATRATRATRATRATRATRATRATRATRATRATRA POWWWWWWWWWW POUUUULLLLL
+                                (SONS DE FOGOS DE ARTÍFICIOS)
+    
+    Muita saúde, paz, amor e sucesso na sua caminhada. Você é uma mulher FODA DEMAIS e é um grande exemplo, não só pra mim 
+    como também para outras mulheres e outros profissionais da área de psicologia. 
+    
+    Hoje é um dia especial, hoje é o seu dia! Sonhe grande e conquiste seus sonhos, você é capaz de tudo. 
+    Nunca deixe de acreditar em você, nunca deixe alguém dizer que você não pode, tá?
+    Mas se, por ventura, você duvidar de si mesma, não se preocupe, eu sempre vou acreditar em você, não importa a situação!
+    
+    Ah, dê uma olhadinha no seu email. Deixei um textinho pra você. 
+
+    Com amor, Lucas Alves.
+    `;
   }
 
   findOne(id: string) {
